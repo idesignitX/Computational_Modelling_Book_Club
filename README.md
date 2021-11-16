@@ -1,5 +1,5 @@
-# Computational_Modelling_Book_Club
-An virtual book club on  Farrell and Lewandowsky's (2018) book, "Computational modeling of cognition and behavior"
+# Computational Modelling Book Club
+An virtual book club on  Farrell and Lewandowsky's (2018) book, "Computational modeling of cognition and behavior". We study, discuss and exchange thoughts on the methods of compuational modelling. 
 
 # Where 
 Join our discussion for free to access exclusive contents, https://tinyurl.com/ytedrjch .
@@ -19,3 +19,4 @@ Join our discussion for free to access exclusive contents, https://tinyurl.com/y
 22 March
 5 April
 26 April
+10 May
