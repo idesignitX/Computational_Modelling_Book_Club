@@ -9,14 +9,14 @@ Join our discussion for free to access exclusive contents, https://tinyurl.com/y
 
 # Dates
 - 16th November, 2021
-- 30th November
-- 7th December
-- 10 Jaunary, 2022
-- 24 Jaunary 
-- 8 February
-- 22 February
-- 8 March
-- 22 March
-- 5 April
-- 26 April
-- 10 May
+- 30th November (Ch5)
+- 7th December (Ch6)
+- 10 Jaunary, 2022 (Ch7)
+- 24 Jaunary (Ch8) 
+- 8 February (Ch9)
+- 22 February (Ch10)
+- 8 March (Ch11)
+- 22 March (Ch12)
+- 5 April (Ch13)
+- 26 April (Ch14)
+- 10 May (Ch15)
