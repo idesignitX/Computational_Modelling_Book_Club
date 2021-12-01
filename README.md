@@ -27,7 +27,7 @@ Join our discussion for free to access exclusive contents, https://tinyurl.com/y
 The book introduces many important concepts in computational modelling and provide useful R (and MATLAB in 2010 version) scripts to help the reader understand the concepts. However, very often, some gaps exist between the scripts presented in the pedagogical form and the scripts found in the real-life projects. Here is a list of practice examples using computational models to answer scientific questions or tackle real-life problems. One of the criteria that I list them here is that the authors not only release their data but also their source codes. 
 
 - [Tump et al (2020)](https://osf.io/ejfm4/)
-- Of course, see my other project repositories for also other real-life examples.
+- Of course, see my other repositories for other real-life examples.
 
 # Reference
 Tump, A. N., Pleskac, T. J., & Kurvers, R. H. (2020). Wise or mad crowds? The cognitive mechanisms underlying information cascades. Science Advances, 6(29), eabb0266.
