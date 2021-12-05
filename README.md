@@ -4,7 +4,7 @@ An virtual book club on  Farrell and Lewandowsky's (2018) book, "Computational m
 Next time, **7th December**, we will start to discuss the popular Bayesian parameter estimation. The authors give one of the best explantions on the idea of conjugacy, as well as the often confused marginal likelihood, etc. Join our discussion and share your thoughts and questions with us.  All welcome. 
 
 # Where 
-Join our discussion for free to access exclusive contents, https://tinyurl.com/ytedrjch .
+Join our discussion for free to access exclusive contents, https://tinyurl.com/ytedrjch . Sign up by sending your email address to Y.S.Lin@leeds.ac.uk to receive latest update and meeting invite.
 
 # When
 2 pm (London time) every other week. 
