@@ -31,4 +31,5 @@ The book introduces many important concepts in computational modelling and provi
 - Of course, see my other repositories for other real-life examples.
 
 # Reference
-Tump, A. N., Pleskac, T. J., & Kurvers, R. H. (2020). Wise or mad crowds? The cognitive mechanisms underlying information cascades. Science Advances, 6(29), eabb0266.
+- Tump, A. N., Pleskac, T. J., & Kurvers, R. H. (2020). Wise or mad crowds? The cognitive mechanisms underlying information cascades. Science Advances, 6(29), eabb0266.
+- Toelch, U., Panizza, F., & Heekeren, H. R. (2018). Norm compliance affects perceptual decisions through modulation of a starting point bias. Royal Society Open Science, 5(3), 171268. https://doi.org/10.1098/rsos.171268
